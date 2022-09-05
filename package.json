@@ -1,0 +1,20 @@
+{
+  "name": "googoodan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yongjun-Han/googoodan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yongjun-Han/googoodan/issues"
+  },
+  "homepage": "https://github.com/Yongjun-Han/googoodan#readme",
+  "type": "module"
+}
